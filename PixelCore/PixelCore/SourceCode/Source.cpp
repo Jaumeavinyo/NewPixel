@@ -8,7 +8,7 @@ namespace pixelcore {
 	
 
 	void Print() {
-		std::cout << "asdasdadfsdfsddadafwefafsdfwfsfasgfsdffgshsdgfadvwfvwvwevafvwsdf" << std::endl;
+		std::cout << "afvwsdf" << std::endl;
 	}
 
 
